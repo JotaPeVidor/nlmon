@@ -1,0 +1,9 @@
+{
+  "1": {
+    "name": "Bulbasaur",
+    "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif",
+    "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/bulbasaur.gif",
+    "frontShiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/bulbasaur.gif",
+    "backShiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/bulbasaur.gif"
+  }
+}
