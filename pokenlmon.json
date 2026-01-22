@@ -26,12 +26,12 @@
     "3": {
     "name": "Venusaur",
     "sprites": {
-      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/Venusaur.gif",
-      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/Venusaur.gif",
-      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/Venusaur.gif",
-      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/Venusaur.gif",
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/venusaur.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/venusaur.gif",
       "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png",
-      "icon": "https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/Venusaur.png"
+      "icon": "https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/venusaur.png"
     },
     "description": "Há uma grande flor nas costas de Venussauro. Diz-se que a flor assume cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas."    
   }
