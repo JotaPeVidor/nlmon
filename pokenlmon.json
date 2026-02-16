@@ -7,11 +7,13 @@
       "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/bulbasaur.gif",
       "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/bulbasaur.gif",
       "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
-      "icon": "https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/bulbasaur.png"
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0001/Normal.png"
     },
-    "description": "Bulbassauro. Pesquisadores estão incertos se devem classificar o Bulbassauro como planta ou animal. Os Bulbassauros são extremamente duros e muito difíceis de serem capturados na selva."    
+    "description": "",
+    "height": 0.71,
+    "weight": 6.9
   },
-    "2": {
+  "2": {
     "name": "Ivyssauro",
     "sprites": {
       "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif",
@@ -19,20 +21,2096 @@
       "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ivysaur.gif",
       "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ivysaur.gif",
       "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png",
-      "icon": "https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/ivysaur.png"
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0002/Normal.png"
     },
-    "description": "Há um botão nas costas deste Pokémon. Para suportar seu peso, as pernas e o tronco de Ivyssauro ficam grossos e fortes. Se ele começar a ficar mais tempo exposto ao sol, é um sinal de que o botão florescerá em uma grande flor em breve."    
+    "description": "",
+    "height": 0.99,
+    "weight": 13.0
   },
-    "3": {
-    "name": "Venusaur",
+  "3": {
+    "name": "Venussauro",
     "sprites": {
       "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif",
       "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif",
       "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/venusaur.gif",
       "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/venusaur.gif",
       "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png",
-      "icon": "https://img.pokemondb.net/sprites/lets-go-pikachu-eevee/normal/venusaur.png"
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0003/Normal.png"
     },
-    "description": "Há uma grande flor nas costas de Venussauro. Diz-se que a flor assume cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas."    
+    "description": "",
+    "height": 2.01,
+    "weight": 100.0
+  },
+  "4": {
+    "name": "Charmander",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/charmander.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/charmander.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/charmander.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0004/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 8.5
+  },
+  "5": {
+    "name": "Charmeleon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmeleon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/charmeleon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/charmeleon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/charmeleon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0005/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 19.0
+  },
+  "6": {
+    "name": "Charizard",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/charizard.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/charizard.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/charizard.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0006/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 90.5
+  },
+  "7": {
+    "name": "Squirtle",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/squirtle.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/squirtle.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/squirtle.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0007/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 9.0
+  },
+  "8": {
+    "name": "Wartortle",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/wartortle.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wartortle.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wartortle.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wartortle.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0008/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 22.5
+  },
+  "9": {
+    "name": "Blastoise",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/blastoise.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/blastoise.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/blastoise.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0009/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 85.5
+  },
+  "10": {
+    "name": "Caterpie",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/caterpie.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/caterpie.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/caterpie.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/caterpie.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0010/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 2.9
+  },
+  "11": {
+    "name": "Metapod",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/metapod.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/metapod.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/metapod.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/metapod.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/011.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0011/Normal.png"
+    },
+    "description": "",
+    "height": 0.71,
+    "weight": 9.9
+  },
+  "12": {
+    "name": "Butterfree",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/butterfree.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/butterfree.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/butterfree.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/butterfree.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0012/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 32.0
+  },
+  "13": {
+    "name": "Weedle",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/weedle.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/weedle.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/weedle.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/weedle.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/013.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0013/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 3.2
+  },
+  "14": {
+    "name": "Kakuna",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kakuna.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kakuna.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kakuna.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kakuna.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/014.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0014/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 10.0
+  },
+  "15": {
+    "name": "Beedrill",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/beedrill.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/beedrill.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/beedrill.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/beedrill.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/015.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0015/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 29.5
+  },
+  "16": {
+    "name": "Pidgey",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgey.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pidgey.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pidgey.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pidgey.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/016.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0016/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 1.8
+  },
+  "17": {
+    "name": "Pidgeotto",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeotto.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pidgeotto.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pidgeotto.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pidgeotto.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/017.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0017/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 30.0
+  },
+  "18": {
+    "name": "Pidgeot",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeot.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pidgeot.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pidgeot.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pidgeot.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/018.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0018/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 39.5
+  },
+  "19": {
+    "name": "Rattata",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/rattata.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/rattata.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/rattata.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/rattata.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/019.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0019/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 3.5
+  },
+  "20": {
+    "name": "Raticate",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/raticate.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/raticate.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/raticate.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/raticate.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/020.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0020/Normal.png"
+    },
+    "description": "",
+    "height": 0.71,
+    "weight": 18.5
+  },
+  "21": {
+    "name": "Spearow",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/spearow.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/spearow.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/spearow.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/spearow.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/021.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0021/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 2.0
+  },
+  "22": {
+    "name": "Fearow",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/fearow.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/fearow.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/fearow.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/fearow.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/022.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0022/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 38.0
+  },
+  "23": {
+    "name": "Ekans",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/ekans.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ekans.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ekans.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ekans.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/023.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0023/Normal.png"
+    },
+    "description": "",
+    "height": 2.01,
+    "weight": 6.9
+  },
+  "24": {
+    "name": "Arbok",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/arbok.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/arbok.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/arbok.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/arbok.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/024.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0024/Normal.png"
+    },
+    "description": "",
+    "height": 3.51,
+    "weight": 65.0
+  },
+  "25": {
+    "name": "Pikachu",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pikachu.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pikachu.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pikachu.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0025/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 6.0
+  },
+  "26": {
+    "name": "Raichu",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/raichu.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/raichu.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/raichu.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/raichu.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0026/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 30.0
+  },
+  "27": {
+    "name": "Sandshrew",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/sandshrew.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sandshrew.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sandshrew.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sandshrew.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/027.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0027/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 12.0
+  },
+  "28": {
+    "name": "Sandslash",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/sandslash.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sandslash.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sandslash.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sandslash.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/028.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0028/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 29.5
+  },
+  "29": {
+    "name": "Nidoran ♀ (Female)",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran-f.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidoran-f.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidoran-f.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidoran-f.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/029.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0029/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 7.0
+  },
+  "30": {
+    "name": "Nidorina",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidorina.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidorina.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidorina.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidorina.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/030.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0030/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 20.0
+  },
+  "31": {
+    "name": "Nidoqueen",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoqueen.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidoqueen.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidoqueen.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidoqueen.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/031.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0031/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 60.0
+  },
+  "32": {
+    "name": "Nidoran ♂ (Male)",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran-m.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidoran-m.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidoran-m.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidoran-m.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/032.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0032/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 9.0
+  },
+  "33": {
+    "name": "Nidorino",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidorino.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidorino.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidorino.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidorino.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/033.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0033/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 19.5
+  },
+  "34": {
+    "name": "Nidoking",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoking.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nidoking.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nidoking.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nidoking.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/034.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0034/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 62.0
+  },
+  "35": {
+    "name": "Clefairy",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/clefairy.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/clefairy.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/clefairy.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/clefairy.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/035.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0035/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 7.5
+  },
+  "36": {
+    "name": "Clefable",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/clefable.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/clefable.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/clefable.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/clefable.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/036.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0036/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 40.0
+  },
+  "37": {
+    "name": "Vulpix",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/vulpix.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/vulpix.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/vulpix.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/vulpix.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/037.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0037/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 9.9
+  },
+  "38": {
+    "name": "Ninetales",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/ninetales.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ninetales.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ninetales.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ninetales.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/038.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0038/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 19.9
+  },
+  "39": {
+    "name": "Jigglypuff",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/jigglypuff.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jigglypuff.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/jigglypuff.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jigglypuff.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/039.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0039/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 5.5
+  },
+  "40": {
+    "name": "Wigglytuff",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/wigglytuff.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wigglytuff.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wigglytuff.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wigglytuff.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/040.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0040/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 12.0
+  },
+  "41": {
+    "name": "Zubat",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/zubat.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/zubat.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/zubat.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/zubat.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/041.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0041/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 7.5
+  },
+  "42": {
+    "name": "Golbat",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/golbat.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/golbat.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/golbat.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/golbat.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/042.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0042/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 55.0
+  },
+  "43": {
+    "name": "Oddish",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/oddish.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/oddish.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/oddish.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/oddish.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0043/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 5.4
+  },
+  "44": {
+    "name": "Gloom",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/gloom.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gloom.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gloom.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gloom.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/044.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0044/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 8.6
+  },
+  "45": {
+    "name": "Vileplume",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/vileplume.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/vileplume.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/vileplume.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/vileplume.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/045.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0045/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 18.6
+  },
+  "46": {
+    "name": "Paras",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/paras.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/paras.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/paras.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/paras.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/046.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0046/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 5.4
+  },
+  "47": {
+    "name": "Parasect",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/parasect.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/parasect.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/parasect.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/parasect.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/047.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0047/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 29.5
+  },
+  "48": {
+    "name": "Venonat",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/venonat.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/venonat.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/venonat.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/venonat.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/048.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0048/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 30.0
+  },
+  "49": {
+    "name": "Venomoth",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/venomoth.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/venomoth.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/venomoth.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/venomoth.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/049.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0049/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 12.5
+  },
+  "50": {
+    "name": "Diglett",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/diglett.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/diglett.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/diglett.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/diglett.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/050.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0050/Normal.png"
+    },
+    "description": "",
+    "height": 0.2,
+    "weight": 0.8
+  },
+  "51": {
+    "name": "Dugtrio",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dugtrio.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dugtrio.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dugtrio.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dugtrio.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/051.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0051/Normal.png"
+    },
+    "description": "",
+    "height": 0.71,
+    "weight": 33.3
+  },
+  "52": {
+    "name": "Meowth",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/meowth.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/meowth.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/meowth.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/meowth.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/052.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0052/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 4.2
+  },
+  "53": {
+    "name": "Persian",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/persian.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/persian.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/persian.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/persian.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/053.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0053/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 32.0
+  },
+  "54": {
+    "name": "Psyduck",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/psyduck.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/psyduck.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/psyduck.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/psyduck.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/054.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0054/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 19.6
+  },
+  "55": {
+    "name": "Golduck",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/golduck.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/golduck.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/golduck.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/golduck.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/055.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0055/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 76.6
+  },
+  "56": {
+    "name": "Mankey",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/mankey.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mankey.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mankey.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mankey.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/056.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0056/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 28.0
+  },
+  "57": {
+    "name": "Primeape",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/primeape.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/primeape.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/primeape.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/primeape.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/057.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0057/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 32.0
+  },
+  "58": {
+    "name": "Growlithe",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/growlithe.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/growlithe.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/growlithe.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/growlithe.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/058.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0058/Normal.png"
+    },
+    "description": "",
+    "height": 0.71,
+    "weight": 19.0
+  },
+  "59": {
+    "name": "Arcanine",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/arcanine.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/arcanine.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/arcanine.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/059.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0059/Normal.png"
+    },
+    "description": "",
+    "height": 1.91,
+    "weight": 155.0
+  },
+  "60": {
+    "name": "Poliwag",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwag.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/poliwag.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/poliwag.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/poliwag.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/060.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0060/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 12.4
+  },
+  "61": {
+    "name": "Poliwhirl",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwhirl.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/poliwhirl.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/poliwhirl.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/poliwhirl.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/061.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0061/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 20.0
+  },
+  "62": {
+    "name": "Poliwrath",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwrath.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/poliwrath.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/poliwrath.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/poliwrath.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/062.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0062/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 54.0
+  },
+  "63": {
+    "name": "Abra",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/abra.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/abra.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/abra.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/abra.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/063.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0063/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 19.5
+  },
+  "64": {
+    "name": "Kadabra",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kadabra.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kadabra.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kadabra.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kadabra.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/064.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0064/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 56.5
+  },
+  "65": {
+    "name": "Alakazam",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/alakazam.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/alakazam.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/alakazam.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/alakazam.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/065.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0065/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 48.0
+  },
+  "66": {
+    "name": "Machop",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/machop.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/machop.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/machop.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/machop.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/066.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0066/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 19.5
+  },
+  "67": {
+    "name": "Machoke",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/machoke.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/machoke.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/machoke.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/machoke.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/067.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0067/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 70.5
+  },
+  "68": {
+    "name": "Machamp",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/machamp.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/machamp.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/machamp.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/machamp.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/068.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0068/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 130.0
+  },
+  "69": {
+    "name": "Bellsprout",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/bellsprout.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/bellsprout.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/bellsprout.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/bellsprout.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/069.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0069/Normal.png"
+    },
+    "description": "",
+    "height": 0.71,
+    "weight": 4.0
+  },
+  "70": {
+    "name": "Weepinbell",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/weepinbell.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/weepinbell.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/weepinbell.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/weepinbell.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/070.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0070/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 6.4
+  },
+  "71": {
+    "name": "Victreebel",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/victreebel.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/victreebel.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/victreebel.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/victreebel.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/071.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0071/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 15.5
+  },
+  "72": {
+    "name": "Tentacool",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/tentacool.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/tentacool.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/tentacool.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/tentacool.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/072.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0072/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 45.5
+  },
+  "73": {
+    "name": "Tentacruel",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/tentacruel.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/tentacruel.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/tentacruel.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/tentacruel.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/073.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0073/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 55.0
+  },
+  "74": {
+    "name": "Geodude",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/geodude.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/geodude.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/geodude.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/geodude.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0074/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 20.0
+  },
+  "75": {
+    "name": "Graveler",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/graveler.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/graveler.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/graveler.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/graveler.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/075.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0075/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 105.0
+  },
+  "76": {
+    "name": "Golem",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/golem.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/golem.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/golem.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/golem.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/076.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0076/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 300.0
+  },
+  "77": {
+    "name": "Ponyta",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/ponyta.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ponyta.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ponyta.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ponyta.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/077.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0077/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 30.0
+  },
+  "78": {
+    "name": "Rapidash",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/rapidash.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/rapidash.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/rapidash.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/rapidash.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/078.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0078/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 95.0
+  },
+  "79": {
+    "name": "Slowpoke",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/slowpoke.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/slowpoke.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/slowpoke.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/079.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0079/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 36.0
+  },
+  "80": {
+    "name": "Slowbro",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/slowbro.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/slowbro.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/slowbro.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/slowbro.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/080.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0080/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 78.5
+  },
+  "81": {
+    "name": "Magnemite",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/magnemite.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/magnemite.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/magnemite.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/magnemite.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/081.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0081/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 6.0
+  },
+  "82": {
+    "name": "Magneton",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/magneton.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/magneton.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/magneton.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/magneton.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/082.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0082/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 60.0
+  },
+  "83": {
+    "name": "Farfetch'd",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/farfetchd.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/farfetchd.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/farfetchd.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/farfetchd.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/083.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0083/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 15.0
+  },
+  "84": {
+    "name": "Doduo",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/doduo.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/doduo.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/doduo.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/doduo.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/084.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0084/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 39.2
+  },
+  "85": {
+    "name": "Dodrio",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dodrio.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dodrio.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dodrio.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dodrio.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/085.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0085/Normal.png"
+    },
+    "description": "",
+    "height": 1.8,
+    "weight": 85.2
+  },
+  "86": {
+    "name": "Seel",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/seel.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/seel.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/seel.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/seel.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/086.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0086/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 90.0
+  },
+  "87": {
+    "name": "Dewgong",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dewgong.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dewgong.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dewgong.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dewgong.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/087.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0087/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 120.0
+  },
+  "88": {
+    "name": "Grimer",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/grimer.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/grimer.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/grimer.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/grimer.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/088.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0088/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 30.0
+  },
+  "89": {
+    "name": "Muk",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/muk.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/muk.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/muk.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/muk.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/089.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0089/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 30.0
+  },
+  "90": {
+    "name": "Shellder",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/shellder.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shellder.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shellder.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shellder.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/090.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0090/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 4.0
+  },
+  "91": {
+    "name": "Cloyster",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/cloyster.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cloyster.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cloyster.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cloyster.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/091.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0091/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 132.5
+  },
+  "92": {
+    "name": "Gastly",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/gastly.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gastly.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gastly.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gastly.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/092.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0092/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 0.1
+  },
+  "93": {
+    "name": "Haunter",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/haunter.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/haunter.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/haunter.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/haunter.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/093.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0093/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 0.1
+  },
+  "94": {
+    "name": "Gengar",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gengar.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gengar.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gengar.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0094/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 40.5
+  },
+  "95": {
+    "name": "Onix",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/onix.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/onix.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/onix.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/onix.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0095/Normal.png"
+    },
+    "description": "",
+    "height": 8.79,
+    "weight": 210.0
+  },
+  "96": {
+    "name": "Drowzee",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/drowzee.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/drowzee.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/drowzee.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/drowzee.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/096.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0096/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 32.4
+  },
+  "97": {
+    "name": "Hypno",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/hypno.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/hypno.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/hypno.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/hypno.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/097.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0097/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 75.6
+  },
+  "98": {
+    "name": "Krabby",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/krabby.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/krabby.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/krabby.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/krabby.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/098.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0098/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 6.5
+  },
+  "99": {
+    "name": "Kingler",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kingler.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kingler.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kingler.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kingler.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/099.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0099/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 60.0
+  },
+  "100": {
+    "name": "Voltorb",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/voltorb.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/voltorb.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/voltorb.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/voltorb.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/100.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0100/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 10.4
+  },
+  "101": {
+    "name": "Electrode",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/electrode.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/electrode.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/electrode.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/electrode.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/101.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0101/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 66.6
+  },
+  "102": {
+    "name": "Exeggcute",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/exeggcute.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/exeggcute.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/exeggcute.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/exeggcute.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/102.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0102/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 2.5
+  },
+  "103": {
+    "name": "Exeggutor",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/exeggutor.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/exeggutor.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/exeggutor.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/exeggutor.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/103.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0103/Normal.png"
+    },
+    "description": "",
+    "height": 2.01,
+    "weight": 120.0
+  },
+  "104": {
+    "name": "Cubone",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/cubone.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cubone.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cubone.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cubone.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/104.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0104/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 6.5
+  },
+  "105": {
+    "name": "Marowak",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/marowak.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/marowak.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/marowak.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/marowak.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/105.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0105/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 45.0
+  },
+  "106": {
+    "name": "Hitmonlee",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/hitmonlee.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/hitmonlee.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/hitmonlee.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/hitmonlee.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/106.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0106/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 49.8
+  },
+  "107": {
+    "name": "Hitmonchan",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/hitmonchan.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/hitmonchan.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/hitmonchan.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/hitmonchan.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/107.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0107/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 50.2
+  },
+  "108": {
+    "name": "Lickitung",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/lickitung.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lickitung.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lickitung.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lickitung.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/108.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0108/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 65.5
+  },
+  "109": {
+    "name": "Koffing",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/koffing.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/koffing.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/koffing.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/koffing.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/109.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0109/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 1.0
+  },
+  "110": {
+    "name": "Weezing",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/weezing.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/weezing.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/weezing.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/weezing.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/110.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0110/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 9.5
+  },
+  "111": {
+    "name": "Rhyhorn",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/rhyhorn.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/rhyhorn.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/rhyhorn.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/rhyhorn.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/111.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0111/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 115.0
+  },
+  "112": {
+    "name": "Rhydon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/rhydon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/rhydon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/rhydon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/rhydon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/112.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0112/Normal.png"
+    },
+    "description": "",
+    "height": 1.91,
+    "weight": 120.0
+  },
+  "113": {
+    "name": "Chansey",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/chansey.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/chansey.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/chansey.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/chansey.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/113.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0113/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 34.6
+  },
+  "114": {
+    "name": "Tangela",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/tangela.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/tangela.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/tangela.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/tangela.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/114.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0114/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 35.0
+  },
+  "115": {
+    "name": "Kangaskhan",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kangaskhan.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kangaskhan.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kangaskhan.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kangaskhan.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/115.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0115/Normal.png"
+    },
+    "description": "",
+    "height": 2.21,
+    "weight": 80.0
+  },
+  "116": {
+    "name": "Horsea",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/horsea.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/horsea.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/horsea.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/horsea.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/116.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0116/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 8.0
+  },
+  "117": {
+    "name": "Seadra",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/seadra.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/seadra.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/seadra.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/seadra.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/117.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0117/Normal.png"
+    },
+    "description": "",
+    "height": 1.19,
+    "weight": 25.0
+  },
+  "118": {
+    "name": "Goldeen",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/goldeen.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/goldeen.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/goldeen.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/goldeen.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/118.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0118/Normal.png"
+    },
+    "description": "",
+    "height": 0.61,
+    "weight": 15.0
+  },
+  "119": {
+    "name": "Seaking",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/seaking.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/seaking.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/seaking.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/seaking.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/119.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0119/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 39.0
+  },
+  "120": {
+    "name": "Staryu",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/staryu.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/staryu.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/staryu.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/staryu.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/120.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0120/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 34.5
+  },
+  "121": {
+    "name": "Starmie",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/starmie.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/starmie.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/starmie.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/starmie.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/121.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0121/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 80.0
+  },
+  "122": {
+    "name": "Mr. Mime",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/mr-mime.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mr-mime.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mr-mime.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mr-mime.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/122.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0122/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 54.5
+  },
+  "123": {
+    "name": "Scyther",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/scyther.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/scyther.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/scyther.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/scyther.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/123.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0123/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 56.0
+  },
+  "124": {
+    "name": "Jynx",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/jynx.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jynx.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/jynx.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jynx.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/124.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0124/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 40.6
+  },
+  "125": {
+    "name": "Electabuzz",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/electabuzz.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/electabuzz.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/electabuzz.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/electabuzz.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/125.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0125/Normal.png"
+    },
+    "description": "",
+    "height": 1.09,
+    "weight": 30.0
+  },
+  "126": {
+    "name": "Magmar",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/magmar.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/magmar.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/magmar.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/magmar.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/126.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0126/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 44.5
+  },
+  "127": {
+    "name": "Pinsir",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/pinsir.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pinsir.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pinsir.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pinsir.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/127.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0127/Normal.png"
+    },
+    "description": "",
+    "height": 1.5,
+    "weight": 55.0
+  },
+  "128": {
+    "name": "Tauros",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/tauros.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/tauros.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/tauros.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/tauros.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0128/Normal.png"
+    },
+    "description": "",
+    "height": 1.4,
+    "weight": 88.4
+  },
+  "129": {
+    "name": "Magikarp",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/magikarp.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/magikarp.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/magikarp.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/magikarp.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0129/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 10.0
+  },
+  "130": {
+    "name": "Gyarados",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/gyarados.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gyarados.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gyarados.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gyarados.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/130.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0130/Normal.png"
+    },
+    "description": "",
+    "height": 6.5,
+    "weight": 235.0
+  },
+  "131": {
+    "name": "Lapras",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/lapras.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lapras.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lapras.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lapras.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/131.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0131/Normal.png"
+    },
+    "description": "",
+    "height": 2.49,
+    "weight": 220.0
+  },
+  "132": {
+    "name": "Ditto",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/ditto.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ditto.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ditto.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ditto.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0132/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 4.0
+  },
+  "133": {
+    "name": "Eevee",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/eevee.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/eevee.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/eevee.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0133/Normal.png"
+    },
+    "description": "",
+    "height": 0.3,
+    "weight": 6.5
+  },
+  "134": {
+    "name": "Vaporeon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/vaporeon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/vaporeon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/vaporeon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/vaporeon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/134.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0134/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 29.0
+  },
+  "135": {
+    "name": "Jolteon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/jolteon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jolteon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/jolteon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jolteon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/135.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0135/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 24.5
+  },
+  "136": {
+    "name": "Flareon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/flareon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/flareon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/flareon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/flareon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/136.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0136/Normal.png"
+    },
+    "description": "",
+    "height": 0.89,
+    "weight": 25.0
+  },
+  "137": {
+    "name": "Porygon",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/porygon.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/porygon.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/porygon.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/porygon.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/137.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0137/Normal.png"
+    },
+    "description": "",
+    "height": 0.79,
+    "weight": 36.5
+  },
+  "138": {
+    "name": "Omanyte",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/omanyte.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/omanyte.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/omanyte.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/omanyte.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/138.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0138/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 7.5
+  },
+  "139": {
+    "name": "Omastar",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/omastar.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/omastar.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/omastar.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/omastar.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/139.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0139/Normal.png"
+    },
+    "description": "",
+    "height": 0.99,
+    "weight": 35.0
+  },
+  "140": {
+    "name": "Kabuto",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kabuto.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kabuto.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kabuto.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kabuto.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/140.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0140/Normal.png"
+    },
+    "description": "",
+    "height": 0.51,
+    "weight": 11.5
+  },
+  "141": {
+    "name": "Kabutops",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/kabutops.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kabutops.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kabutops.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kabutops.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/141.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0141/Normal.png"
+    },
+    "description": "",
+    "height": 1.3,
+    "weight": 40.5
+  },
+  "142": {
+    "name": "Aerodactyl",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/aerodactyl.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/aerodactyl.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/aerodactyl.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/aerodactyl.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/142.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0142/Normal.png"
+    },
+    "description": "",
+    "height": 1.8,
+    "weight": 59.0
+  },
+  "143": {
+    "name": "Snorlax",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/snorlax.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/snorlax.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/snorlax.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0143/Normal.png"
+    },
+    "description": "",
+    "height": 2.11,
+    "weight": 460.0
+  },
+  "144": {
+    "name": "Articuno",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/articuno.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/articuno.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/articuno.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/articuno.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/144.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0144/Normal.png"
+    },
+    "description": "",
+    "height": 1.7,
+    "weight": 55.4
+  },
+  "145": {
+    "name": "Zapdos",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/zapdos.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/zapdos.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/zapdos.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/zapdos.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/145.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0145/Normal.png"
+    },
+    "description": "",
+    "height": 1.6,
+    "weight": 52.6
+  },
+  "146": {
+    "name": "Moltres",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/moltres.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/moltres.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/moltres.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/moltres.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/146.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0146/Normal.png"
+    },
+    "description": "",
+    "height": 2.01,
+    "weight": 60.0
+  },
+  "147": {
+    "name": "Dratini",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dratini.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dratini.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dratini.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dratini.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/147.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0147/Normal.png"
+    },
+    "description": "",
+    "height": 1.8,
+    "weight": 3.3
+  },
+  "148": {
+    "name": "Dragonair",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dragonair.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dragonair.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dragonair.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dragonair.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/148.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0148/Normal.png"
+    },
+    "description": "",
+    "height": 3.99,
+    "weight": 16.5
+  },
+  "149": {
+    "name": "Dragonite",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dragonite.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dragonite.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dragonite.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/149.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0149/Normal.png"
+    },
+    "description": "",
+    "height": 2.21,
+    "weight": 210.0
+  },
+  "150": {
+    "name": "Mewtwo",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/mewtwo.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mewtwo.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mewtwo.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mewtwo.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/150.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0150/Normal.png"
+    },
+    "description": "",
+    "height": 2.01,
+    "weight": 122.0
+  },
+  "151": {
+    "name": "Mew",
+    "sprites": {
+      "front": "https://img.pokemondb.net/sprites/black-white/anim/normal/mew.gif",
+      "back": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mew.gif",
+      "front_shiny": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mew.gif",
+      "back_shiny": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mew.gif",
+      "profile": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png",
+      "icon": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0151/Normal.png"
+    },
+    "description": "",
+    "height": 0.41,
+    "weight": 4.0
   }
 }
